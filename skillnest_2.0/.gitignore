@@ -1,0 +1,25 @@
+# Dependencies
+node_modules/
+vendor/
+
+# Build and output files
+/build/
+/dist/
+[Bb]in/
+[Oo]bj/
+
+# Environment variables
+.env
+.env.local
+
+# Temporary or log files
+*.log
+*.tmp
+*.bak
+
+# OS and Editor files
+.DS_Store
+Thumbs.db
+Desktop.ini
+.vscode/
+.idea/
